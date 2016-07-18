@@ -1,0 +1,14 @@
+layout_spectrum: 0.969534
+typography_spectrum: 0.8494624
+color:
+  saturation: 0.530466
+  lightness: 0.6845878
+  brandStrength: 0.7024812
+  brandColors:
+    - '#701AB1'
+    - '#FEFEFE'
+    - '#0D0B0E'
+    - '#E03364'
+    - '#CDB0E1'
+  rhythmicContrast: 0.3155951
+name: RokuForYou
